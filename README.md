@@ -27,7 +27,7 @@ This repository hosts a robust and user-friendly Monthly Expense Tracker applica
 
 ## How to Setup
 
-1.  **Clone the Repository:**
+1.  **Clone the Repository**
     
 2.  **Install Dependencies:**
     ```bash
